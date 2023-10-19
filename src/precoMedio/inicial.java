@@ -6,7 +6,7 @@ public class inicial {
 	 * Por hora apenas escrever a lógica */
 	public static void main(String[] args) {
 	
-	System.out.println("Quantos níveis deseja na grade?");
+	
 	int niveis =40;
 	System.out.println("Qual o espaço da grade (ticks M.americano ou pontos M.B3)?");
 	//
@@ -39,6 +39,8 @@ public class inicial {
 	System.out.println(" ");
 	System.out.println("Você precisa ter no mínimo "+resultado+" "+moeda+" "+"para aguentar "+pontuacaoTotal+"pts"+
 	". Isso para operar com "+niveis+" niveis de "+espaco+"pts");
+	
+	System.out.println("");
 	
 	
 	
