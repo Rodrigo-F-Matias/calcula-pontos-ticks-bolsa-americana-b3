@@ -24,7 +24,7 @@ public class inicial {
 	       System.out.println("soma é :" +recebe + "+"+numero +" igual " + somaNiveis);
 	       recebe = somaNiveis;
 	 }
-	
+	// verificar se a pontuação é do míni indice ou outro ativo. Qualquer outro a lógica deduzirá que é mercado americano.
 	if (valorDaPontuacao == 0.20) {
 		moeda = "reais";
 	}else {
