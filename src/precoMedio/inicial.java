@@ -3,7 +3,7 @@ package precoMedio;
 public class inicial {
 	
 	/* 
-	 * Por hora apeans escrever a lógica */
+	 * Por hora apenas escrever a lógica */
 	public static void main(String[] args) {
 	
 	System.out.println("Qual o espaço dos níveis do GL?");
