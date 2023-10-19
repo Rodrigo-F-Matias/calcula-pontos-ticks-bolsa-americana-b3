@@ -2,7 +2,8 @@ package precoMedio;
 
 public class inicial {
 	
-	/* Main é um metodo auto executavel em java*/
+	/* 
+	 * Por hora apeans escrever a lógica */
 	public static void main(String[] args) {
 	
 	System.out.println("Qual o espaço dos níveis do GL?");
