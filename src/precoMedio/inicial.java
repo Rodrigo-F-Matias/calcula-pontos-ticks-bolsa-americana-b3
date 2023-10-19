@@ -6,8 +6,10 @@ public class inicial {
 	 * Por hora apenas escrever a lógica */
 	public static void main(String[] args) {
 	
-	System.out.println("Qual o espaço dos níveis do GL?");
+	System.out.println("Quantos níveis deseja na grade?");
 	int niveis =40;
+	System.out.println("Qual o espaço da grade (ticks M.americano ou pontos M.B3)?");
+	//
 	int somaNiveis = 0;
 	int recebe =0;
 	double valorDaPontuacao = 0.0021176470588235; /*no mini índice um ponto vale 0,20 , no nasdaq um tick vale 0,50 /na active 0,05 lote vale 0.0021176470588235 dólares o ponto */
